@@ -1,7 +1,29 @@
-🔭 I’m currently trying to setup some side hustles.
-🌱 I’m learning how to document my learnings and how you learn in Public.
-👯 I’m looking to collaborate on crazy ideas. Especially ones that involve lots of colors.
-🤔 I’m looking for help with webdev. Wrestling with laravel.
-💬 Ask me about electronics, firmware, art, craft, books and craft beer!
-😄 Pronouns: she/her/hers
-⚡ Fun fact: Sapiens is the only non-fiction book that has made it to the books I recommend.
+
+## 🚀 Rithish N  
+
+📧 nrithish198273@gmail.com | 📞 +91 9962253750 | [LinkedIn](https://www.linkedin.com/in/rithishn) | [GitHub](https://github.com/rithishpro200411)  
+
+### 👨‍💻 About Me  
+I'm a Computer Science and Business Systems student at Chennai Institute of Technology (2022-2026), passionate about full-stack development, networking, and DevOps. I enjoy solving competitive programming challenges and building scalable applications.  
+
+### 🎓 Education  
+**Chennai Institute of Technology**  
+📚 B.Tech in Computer Science and Business Systems (2022-2026)  
+📊 CGPA: 8.51/10  
+
+---
+
+## 🛠️ Tech Stack  
+- **Languages**: Python, C++, Java, JavaScript, SQL, R, Bash, Dart, TypeScript  
+- **Frameworks & Libraries**: .NET, React/Next.js, Node/Express.js, Django/Flask, Flutter  
+- **Databases**: PostgreSQL, MongoDB, Firebase, Supabase  
+- **Tools & Platforms**: Git/GitHub, AWS, Docker, Linux, Postman, Wireshark, Android Studio  
+
+---
+
+## 🎖️ Achievements  
+- **LeetCode**: Solved **550+ problems**, contest rating **1538** (Top 33.6%)  
+- **CodeChef**: Contest rating **1350+**  
+- **CodeForces**: Max rating **825**, **50+ problems solved**, global rank **9581**  
+- **SkillRack**: Solved **400+ problems**  
+
